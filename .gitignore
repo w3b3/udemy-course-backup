@@ -1,0 +1,35 @@
+# Credentials and tokens
+.env
+.udemy_token
+.udemy_cookies.txt
+
+# Downloads
+downloads/
+failed_downloads.txt
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Debug / Logs
+debug_*
+*.log
+logs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
